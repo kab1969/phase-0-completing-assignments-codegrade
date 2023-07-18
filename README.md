@@ -267,9 +267,7 @@ The process requires three terminal commands:
 1. `git commit`
 1. `git push`
 
-We will learn about these commands in far more detail in two lessons near the
-end of the SE Prep course: [Git Basics][basics] and [Pushing Code with
-Git][pushing-with-git]. For now, we'll just cover the surface basics that will
+We will learn about these commands in far more detail in two lessons near t33at will
 allow you to turn in your assignments. If you have questions about these git
 commands, however, you are free to refer to those later lessons.
 
@@ -575,7 +573,7 @@ has been accepted.
 ## Conclusion
 
 Congratulations, you've completed your first assignment and submitted it to
-CodeGrade! You now know how to work on and submit assignments going forward:
+CodeGrade! You now know how to work on and t assignments going forward:
 
 - Click the **OctoCat** button on the Canvas assignment, then the **Fork**
   button on the repo page.
